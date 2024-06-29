@@ -1,0 +1,6 @@
+name: BoutonRoyale
+version: '${project.version}'
+main: fr.lumin0u.buttonroyale.BoutonRoyale
+api-version: '1.20'
+depend: [Cosmox]
+authors: [lumin0u]
